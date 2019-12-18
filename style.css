@@ -61,6 +61,40 @@ a:hover{
 }
 
 img:hover{
-    background-color: rgb(127, 255, 206)
-    width: 320px;
+    background-color: rgb(127, 255, 206);
+    width: 200px;
+}
+
+
+.cuadro3{
+
+    width: 10%;
+    height: 10px;
+    border-color: rgb(0, 255, 213) 2px;
+    padding: 100px;
+    background-color: rgb(109, 5, 104);
+
+    margin: 100px;
+
+    font-family: fantasy;
+    font-size: 20px;
+    position:static;
+    bottom: 5px;
+    right: 30px;
+}
+.cuadro4{
+
+    width: 8%;
+    height: 10px;
+    border-color: rgb(0, 255, 213) 2px;
+    padding: 180px;
+    background-color: rgb(5, 109, 78);
+
+    margin: 100px;
+
+    font-family: fantasy;
+    font-size:90%;
+    position:static;
+    bottom: 5px;
+    right: 30px;
 }
